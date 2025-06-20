@@ -1,0 +1,1 @@
+Develop a UART device driver library to implement an interrupt-driven full-duplex serial link to a remote computer. Then make use of this library by writing an independent application using this new serial driver library to communicate with a Python program running on a connected remote PC
